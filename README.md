@@ -1,6 +1,7 @@
 # Sentiment-Analysis-using-word-embedding
 Here i have done sentiment analysis for urdu corpus using word embeddings
-This task uses same dataset as deep learning sentiment analysis. Perform the task of binary classification on the dataset.
+You have to download embeddings to proceed
+This task uses same dataset as deep learning sentiment analysis dataset link :https://github.com/MuhammadYaseenKhan/Urdu-Sentiment-Corpus/blob/master/urdu-. Perform the task of binary classification on the dataset.
 Choose one classifier from deep learning models implemented in prev task based on best
 results on F-measure for binary classification.
 Use following embedding for vector representation and report the results. You need to train
